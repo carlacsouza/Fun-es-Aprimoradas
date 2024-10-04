@@ -51,6 +51,8 @@ function mostraResultado(){
 
 function jogarNovamente(){
     atual = 0;
+    historiaFinal = "";
+    mostraPergunta();
 
 }
 
