@@ -5,8 +5,8 @@ export const perguntas = [
             {
                 texto: "Lugares quentes.",
                 afirmacao: [
-                    "lembre-se de levar protetor solar.",
-                    "lembre-se de levar seu bronzeador preferido"
+                    "Lembre-se de levar protetor solar.",
+                    "Lembre-se de levar seu bronzeador preferido"
                 ]
             },
             {
