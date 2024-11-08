@@ -12,8 +12,8 @@ export const perguntas = [
             {
                 texto: "Lugares frios.",
                 afirmacao:[ 
-                    "Lembre-se de levar agasalhos",
-                    "Lembre-se de levar seu melhor hidratante"
+                    "Você deve lembrar de levar agasalhos",
+                    "Você deve lembrar de levar seu melhor hidratante"
                 ]
             }
         ]
